@@ -17,7 +17,7 @@ namespace Application.Commands
     public class UploadFileCommandHandler : IRequestHandler<UploadFileCommand, Result<string>>
     {
         private readonly S3Service _s3Service;
-        private readonly string _bucketName = "your-bucket-name"; // AWS S3 bucket adınız
+        private readonly string _bucketName = "your-bucket-name";
 
         public UploadFileCommandHandler(S3Service s3Service)
         {
@@ -31,7 +31,6 @@ namespace Application.Commands
                 return Result<string>.Failure("Dosya veya dosya adı boş olamaz.");
             }
 
-            // AWS S3'e dosya yükleme işlemi
             string fileKey;
             try
             {
