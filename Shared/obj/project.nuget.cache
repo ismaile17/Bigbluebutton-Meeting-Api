@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GATBXPHIbqfUGg5REbCUfJDGwjfSpO5LU4slWMBlbQHYiZS0ZkM5ciyI9/vFPGWHrPdMsauEip9L9GokrjqjOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\git yüklenen meeting\\Bigbluebutton-Meeting-Api\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.3.0\\microsoft.identitymodel.abstractions.7.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.3.0\\microsoft.identitymodel.jsonwebtokens.7.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.logging\\7.3.0\\microsoft.identitymodel.logging.7.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.3.0\\microsoft.identitymodel.tokens.7.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.3.0\\system.identitymodel.tokens.jwt.7.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
