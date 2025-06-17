@@ -1,6 +1,8 @@
 🧩 Bigbluebutton-Meeting-Api
 A modular and extensible .NET Core API project for managing BigBlueButton video conferencing sessions with integrated AWS services, clean architecture patterns, and domain-driven design principles.
 
+> 💻 **Frontend Interface:** [Bigbluebutton-Meeting-Vue](https://github.com/ismaile17/Bigbluebutton-Meeting-Vue) — Vue 3-based UI for this API
+
 🚀 Features
 ✅ Full BigBlueButton API integration (Create/Join/End Meetings, Recordings, etc.)
 
